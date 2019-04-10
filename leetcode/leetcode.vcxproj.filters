@@ -51,6 +51,9 @@
     <ClInclude Include="phone_number.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="trie.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -78,6 +81,9 @@
       <Filter>源文件\yi\util</Filter>
     </ClCompile>
     <ClCompile Include="phone_number.cpp">
+      <Filter>源文件\yi\algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="trie.cpp">
       <Filter>源文件\yi\algorithm</Filter>
     </ClCompile>
   </ItemGroup>
