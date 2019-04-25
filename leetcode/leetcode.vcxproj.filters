@@ -83,8 +83,5 @@
     <ClCompile Include="phone_number.cpp">
       <Filter>源文件\yi\algorithm</Filter>
     </ClCompile>
-    <ClCompile Include="trie.cpp">
-      <Filter>源文件\yi\algorithm</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

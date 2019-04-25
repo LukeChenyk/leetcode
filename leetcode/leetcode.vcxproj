@@ -173,7 +173,6 @@
     </ClCompile>
     <ClCompile Include="string_util.cpp" />
     <ClCompile Include="tree_sum.cpp" />
-    <ClCompile Include="trie.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
