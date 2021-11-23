@@ -156,7 +156,7 @@
     <ClInclude Include="string_util.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="tree_sum.h" />
-    <ClInclude Include="unique_paths.h" />
+    <ClInclude Include="trie.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="btree.cpp" />
@@ -173,7 +173,6 @@
     </ClCompile>
     <ClCompile Include="string_util.cpp" />
     <ClCompile Include="tree_sum.cpp" />
-    <ClCompile Include="unique_paths.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
